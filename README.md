@@ -1,47 +1,84 @@
-<h2 align="left">Hi 👋! This is Ratul Rahman Rudra from Dhaka, Bangladesh.</h2>
+<h1>Hey, <img src="https://slackmojis.com/emojis/51091-pikachu_wave/download" height="30px"/> whats up?</h2>
+<p>
+This is Ratul Rahman Rudra - Software Engineer from Dhaka, Bangladesh
+</p>
 
 ###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RatulRahmanRudra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RatulRahmanRudra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RatulRahmanRudra&left_color=black&left_text=visitors"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" width="42" alt="go logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="cplusplus logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" width="42" alt="vuejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" width="42" alt="azure logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" width="42" alt="arduino logo"  />
+<div style="display:flex; justify-content:space-between">
+  <img align="left" height="200" src="https://miro.medium.com/v2/resize:fit:1600/0*ZFVRrCKEokQ7_81X.gif"  />
+  
+
+<div style="border:0.5px solid gray">
+  
+  ##### <h1 align="center">About me</h1>
+
+  - ✨ Creating bugs since 2018 
+  - 📚 I'm currently learning advanced golang <img src="https://slackmojis.com/emojis/291-golang/download" height="20px" style=" position:relative; top:6px;"/> 
+  - 🎯 Goals: learn and earn  💰
+  - 🎸 love to play  
 </div>
-
-###
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=RatulRahmanRudra.RatulRahmanRudra&left_color=black"  />
-
-###
-
-<img align="right" height="120" src="https://miro.medium.com/v2/resize:fit:1600/0*ZFVRrCKEokQ7_81X.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="stackoverflow logo"  />
 </div>
 
 ###
 
 <br clear="both">
+<br clear="both">
 
-<img src="https://raw.githubusercontent.com/RatulRahmanRudra/RatulRahmanRudra/blob/output/snake.svg" alt="Snake animation" />
+### <h3> I work with 🔻</h3> <hr/>
 
 ###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="35" width="47" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" width="47" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" width="47" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" width="47" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35" width="47" alt="vuejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" width="47" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="35" width="47" alt="azure logo"  />
+</div>
+
+###
+
+<br/>
+
+### <h3> You can find me 🔻</h3> <hr/>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/ratul-rahman-rudra/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/11108819/deadman" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://medium.com/@ratul.rahman.rudra" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  </a>
+  <a href="https://fb.com/ratul.rahman.rudra" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/rudra_rrr/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/RatulRahmanRudra" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  </a>
+</div>
+
+<br/>
+
+### <h3> Latest medium posts 🔻</h3> <hr/>
+### 
 
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=ratul.rahman.rudra" alt="Layout with last medium posts"  />
