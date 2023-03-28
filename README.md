@@ -10,19 +10,20 @@ This is Ratul Rahman Rudra - Software Engineer from Dhaka, Bangladesh
 
 ###
 
+###
+
 <div style="display:flex; justify-content:space-between">
   <img align="left" height="200" src="https://miro.medium.com/v2/resize:fit:1600/0*ZFVRrCKEokQ7_81X.gif"  />
-  
+  <div style="border:0.5px solid gray">
 
-<div style="border:0.5px solid gray">
-  
-  ##### <h1 align="center">About me</h1>
-
-  - ✨ Creating bugs since 2018 
-  - 📚 I'm currently learning advanced golang <img src="https://slackmojis.com/emojis/291-golang/download" height="20px" style=" position:relative; top:6px;"/> 
-  - 🎯 Goals: learn and earn  💰
-  - 🎸 love to play  
-</div>
+   <h1 align="center">About me</h1>
+      <div align="center">
+        ✨ Creating bugs since 2018 <br>
+        📚 I'm currently learning advanced golang <img src="https://slackmojis.com/emojis/291-golang/download" height="20px" style=" position:relative; top:6px;"/><br>
+        🎯 Goals: learn and earn  💰<br>
+        🎸 love playing music 
+      </div>
+  </div>
 </div>
 
 ###
@@ -52,8 +53,6 @@ This is Ratul Rahman Rudra - Software Engineer from Dhaka, Bangladesh
 
 ###
 
-<br clear="both">
-
 <div align="left">
   <a href="https://www.linkedin.com/in/ratul-rahman-rudra/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -81,7 +80,7 @@ This is Ratul Rahman Rudra - Software Engineer from Dhaka, Bangladesh
 ### 
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=ratul.rahman.rudra" alt="Layout with last medium posts"  />
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@ratul.rahman.rudra" alt="Layout with last medium posts"  />
 </div>
 
 ###
