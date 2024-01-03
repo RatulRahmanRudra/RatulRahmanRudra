@@ -19,7 +19,7 @@ This is Ratul Rahman Rudra - Software Engineer from Dhaka, Bangladesh
    <h1 align="center">About me</h1>
       <div align="center">
         ✨ Creating bugs since 2018 <br>
-        📚 I'm currently learning advanced golang <img src="https://slackmojis.com/emojis/291-golang/download" height="20px" style=" position:relative; top:6px;"/><br>
+        📚 Learning Engineering<br>
         🎯 Goals: learn and earn  💰<br>
         🎸 love playing music 
       </div>
